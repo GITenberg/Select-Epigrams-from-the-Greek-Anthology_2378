@@ -1,0 +1,25 @@
+_repo: Select-Epigrams-from-the-Greek-Anthology_2378
+contributor:
+  translator:
+    agent_name: Mackail, J. W. (John William)
+    alias: Mackail, John William
+    birthdate: 1859
+    deathdate: 1945
+    gutenberg_agent_id: '881'
+    url: http://www.gutenberg.org/2009/agents/881
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Mackail
+description: 'Uniform title: Greek anthology. Selections'
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek poetry -- Translations into English'
+- !lcsh 'Epigrams, Greek'
+title: Select Epigrams from the Greek Anthology
+url: http://www.gutenberg.org/ebooks/2378
