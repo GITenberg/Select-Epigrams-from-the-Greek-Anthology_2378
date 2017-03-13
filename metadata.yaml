@@ -1,5 +1,5 @@
 _repo: Select-Epigrams-from-the-Greek-Anthology_2378
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Mackail, J. W. (John William)
@@ -9,7 +9,12 @@ contributor:
     gutenberg_agent_id: '881'
     url: http://www.gutenberg.org/2009/agents/881
     wikipedia: http://en.wikipedia.org/wiki/John_William_Mackail
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: 'Uniform title: Greek anthology. Selections'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2378#Select-Epigrams-from-the-Greek-Anthology
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
 identifiers:
